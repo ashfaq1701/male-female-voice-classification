@@ -8,6 +8,8 @@ tensorflow-macos = "*"
 tensorflow-metal = "*"
 numpy = "*"
 pandas = "*"
+pydub = "*"
+jupyter = "*"
 
 [dev-packages]
 
