@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1abaa8a919e642dd8ba988adb7e81a0c64ac43080dc3a18c7af1f39325355e79"
+            "sha256": "3cca34d81b9e7cbce10ab86f484a343c2aa2c62cc6b1008019425d19c45723d3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -769,7 +769,7 @@
             "hashes": [
                 "sha256:35c39534011e909645fb93515452e98e1a0ce23727b55d4918b9c58b2308c15e"
             ],
-            "markers": "python_version >= '3.8'",
+            "index": "pypi",
             "version": "==2.12.0"
         },
         "kiwisolver": {
@@ -1410,11 +1410,11 @@
         },
         "platformdirs": {
             "hashes": [
-                "sha256:412dae91f52a6f84830f39a8078cecd0e866cb72294a5c66808e74d5e88d251f",
-                "sha256:e2378146f1964972c03c085bb5662ae80b2b8c06226c54b2ff4aa9483e8a13a5"
+                "sha256:0ade98a4895e87dc51d47151f7d2ec290365a585151d97b4d8d6312ed6132fed",
+                "sha256:e48fabd87db8f3a7df7150a4a5ea22c546ee8bc39bc2473244730d4b56d2cc4e"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==3.5.1"
+            "version": "==3.5.3"
         },
         "pooch": {
             "hashes": [

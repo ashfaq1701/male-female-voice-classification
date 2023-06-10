@@ -12,6 +12,7 @@ librosa = "*"
 scikit-learn = "*"
 tensorflow-macos = "*"
 tensorflow-metal = "*"
+keras = "*"
 
 [dev-packages]
 
