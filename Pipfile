@@ -4,14 +4,14 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-tensorflow-macos = "*"
-tensorflow-metal = "*"
 numpy = "*"
 pandas = "*"
-pydub = "*"
 jupyter = "*"
 matplotlib = "*"
 librosa = "*"
+scikit-learn = "*"
+tensorflow-macos = "*"
+tensorflow-metal = "*"
 
 [dev-packages]
 
